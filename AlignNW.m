@@ -1,0 +1,1 @@
+[score, Alignment]=nwalign('ATCCCTTG', 'ACCTTTTT', 'Alphabet', 'NT');
